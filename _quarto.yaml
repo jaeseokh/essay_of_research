@@ -45,7 +45,7 @@ format:
     callout-icon: false
     fig-align: center
     code-tools: true
-    # base-url: https://jaeseokh.github.io/essays/
+    base-url: /essays/
 
 execute:
   warning: false
