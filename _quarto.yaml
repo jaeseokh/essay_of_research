@@ -1,13 +1,14 @@
 project:
   type: book
-  output-dir: docs
-  
+  output-dir: ../docs/essays  # Place the book in the main site's "docs/essays" folder
+
 book:
   title: "Essay of my research Journey"
   author: "Jaeseok Hwang"
   site-url: https://jaeseokh.github.io/essays/
   repo-url: https://https://github.com/jaeseokh/essay_of_research/
   repo-branch: master
+  base-url: /essays/
   repo-actions: [edit]
   sharing: [facebook, linkedin]
   chapters:
@@ -45,7 +46,6 @@ format:
     callout-icon: false
     fig-align: center
     code-tools: true
-    base-url: /essays/
 
 execute:
   warning: false
