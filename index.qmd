@@ -1,0 +1,12 @@
+---
+description-meta: |
+  TThis page shows my essay of research
+---
+
+## Welcome {.unnumbered}
+
+This page shows my essay of research
+
+## License {.unnumbered}
+
+This website is (and will always be) **free to use**, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
