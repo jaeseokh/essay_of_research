@@ -45,6 +45,7 @@ format:
     callout-icon: false
     fig-align: center
     code-tools: true
+    base-url: /essays/
 
 execute:
   warning: false
