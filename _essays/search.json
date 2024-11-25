@@ -150,28 +150,6 @@
     ]
   },
   {
-    "objectID": "P01-price_movement.html",
-    "href": "P01-price_movement.html",
-    "title": "6  How Price Moves : Stock Market and Grain Stock",
-    "section": "",
-    "text": "6.1 Mechanisms of Price Changes: Stock Market vs. Grain Market (Corn)\nPrice changes in both stock and grain markets reflect the dynamics of supply, demand, and external factors. While the overarching mechanisms share similarities, the specific drivers and their relative influence differ significantly.",
-    "crumbs": [
-      "Price analysis: <br> Grain Stock and Stock Market",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>How Price Moves : Stock Market and Grain Stock</span>"
-    ]
-  },
-  {
-    "objectID": "P02-stock_money_ag.html",
-    "href": "P02-stock_money_ag.html",
-    "title": "",
-    "section": "",
-    "text": "Essay of Price Analysis6  P02-stock_money_ag.html Code",
-    "crumbs": [
-      "Essay of Price Analysis",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>P02-stock_money_ag.html</span>"
-    ]
-  },
-  {
     "objectID": "S01-what-is-learning.html",
     "href": "S01-what-is-learning.html",
     "title": "4  Exploring Statistical Learning",
@@ -180,94 +158,6 @@
     "crumbs": [
       "Statistical (Machine) Learning: <br> From Simplicity to Complexity ",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "S02-how-to-use-learning.html",
-    "href": "S02-how-to-use-learning.html",
-    "title": "5  Application of Statistical Learning",
-    "section": "",
-    "text": "5.1 Application of Statistical Learning: Machine Learning Models in My Research\nIn this section, I detail the application of machine learning-based regression models that I used during the later stages of my Ph.D. program. To provide concrete examples and enhance understanding, I draw upon my research on estimating yield response to nitrogen. These methods were employed to analyze how yield responds to nitrogen under varying climate conditions, utilizing on-farm field experimental data collected from multiple locations. The dataset includes:\nThe goal of my research is to understand how yield responds to nitrogen applications under diverse climate scenarios. Below, I describe the machine learning models used.",
-    "crumbs": [
-      "Statistical (Machine) Learning: <br> From Simplicity to Complexity ",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Application of Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "A01-appendix.html",
-    "href": "A01-appendix.html",
-    "title": "",
-    "section": "",
-    "text": "AppendicesA  A01-appendix.html Code",
-    "crumbs": [
-      "Appendices",
-      "<span class='chapter-number'>A</span>  <span class='chapter-title'>A01-appendix.html</span>"
-    ]
-  },
-  {
-    "objectID": "S01-what-is-learning.html#linear-regression",
-    "href": "S01-what-is-learning.html#linear-regression",
-    "title": "7  Exploring Statistical Learning",
-    "section": "11.1 1. Linear Regression",
-    "text": "11.1 1. Linear Regression\n[ Y_i = 0 + {j=1}^p j X{ij} + _i ]\nPurpose: Predict a continuous outcome assuming a linear relationship.",
-    "crumbs": [
-      "Essay of Statistical Learning(AI)",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "S01-what-is-learning.html#logistic-regression",
-    "href": "S01-what-is-learning.html#logistic-regression",
-    "title": "7  Exploring Statistical Learning",
-    "section": "11.2 2. Logistic Regression",
-    "text": "11.2 2. Logistic Regression\n[ P(Y = 1 | X) = ]\nPurpose: Predict a binary outcome (e.g., success/failure).",
-    "crumbs": [
-      "Essay of Statistical Learning(AI)",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "S01-what-is-learning.html#decision-trees",
-    "href": "S01-what-is-learning.html#decision-trees",
-    "title": "7  Exploring Statistical Learning",
-    "section": "11.3 3. Decision Trees",
-    "text": "11.3 3. Decision Trees\n[ f(X) = X_j ]\nPurpose: Handle both classification and regression tasks by splitting data into homogeneous subsets.",
-    "crumbs": [
-      "Essay of Statistical Learning(AI)",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "S01-what-is-learning.html#random-forest",
-    "href": "S01-what-is-learning.html#random-forest",
-    "title": "7  Exploring Statistical Learning",
-    "section": "11.4 4. Random Forest",
-    "text": "11.4 4. Random Forest\n[ (X) = _{b=1}^B f_b(X) ]\nPurpose: Ensemble method that averages predictions from multiple decision trees.",
-    "crumbs": [
-      "Essay of Statistical Learning(AI)",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "S01-what-is-learning.html#support-vector-machines-svm",
-    "href": "S01-what-is-learning.html#support-vector-machines-svm",
-    "title": "7  Exploring Statistical Learning",
-    "section": "11.5 5. Support Vector Machines (SVM)",
-    "text": "11.5 5. Support Vector Machines (SVM)\n[ | w |^2 y_i(w^T X_i + b) ]\nPurpose: Find a hyperplane to separate classes in a high-dimensional space.",
-    "crumbs": [
-      "Essay of Statistical Learning(AI)",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
-    ]
-  },
-  {
-    "objectID": "S01-what-is-learning.html#neural-networks",
-    "href": "S01-what-is-learning.html#neural-networks",
-    "title": "7  Exploring Statistical Learning",
-    "section": "11.6 6. Neural Networks",
-    "text": "11.6 6. Neural Networks\n[ a^{(l)} = g(W{(l)}a{(l-1)} + b^{(l)}) ]\nPurpose: Mimic the brain’s structure to handle complex, non-linear relationships.\n\nThese models showcase the breadth of supervised learning techniques, from interpretable linear regression to complex neural networks. Each serves a unique purpose, depending on the data and the problem at hand.\n\nLet me know if you’d like to add more details or examples for any of these sections!\n\n\n\n\n\n\nGreene, William H. 2008. “The Econometric Approach to Efficiency Analysis.” The Measurement of Productive Efficiency and Productivity Growth 1 (1): 92–250.\n\n\nWooldridge, Jeffrey M. 2010. Econometric Analysis of Cross Section and Panel Data. MIT press.",
-    "crumbs": [
-      "Essay of Statistical Learning(AI)",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Exploring Statistical Learning</span>"
     ]
   },
   {
@@ -326,8 +216,19 @@
     ]
   },
   {
-    "objectID": "S02-how-to-use-learning.html#application-of-statistical-learning-machine-learning-models-in-yield-analysis",
-    "href": "S02-how-to-use-learning.html#application-of-statistical-learning-machine-learning-models-in-yield-analysis",
+    "objectID": "S02-how-to-use-learning.html",
+    "href": "S02-how-to-use-learning.html",
+    "title": "5  Application of Statistical Learning",
+    "section": "",
+    "text": "5.1 Application of Statistical Learning: Machine Learning Models in My Research\nIn this section, I detail the application of machine learning-based regression models that I used during the later stages of my Ph.D. program. To provide concrete examples and enhance understanding, I draw upon my research on estimating yield response to nitrogen. These methods were employed to analyze how yield responds to nitrogen under varying climate conditions, utilizing on-farm field experimental data collected from multiple locations. The dataset includes:\nThe goal of my research is to understand how yield responds to nitrogen applications under diverse climate scenarios. Below, I describe the machine learning models used.",
+    "crumbs": [
+      "Statistical (Machine) Learning: <br> From Simplicity to Complexity ",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Application of Statistical Learning</span>"
+    ]
+  },
+  {
+    "objectID": "S02-how-to-use-learning.html#application-of-statistical-learning-machine-learning-models-in-my-research",
+    "href": "S02-how-to-use-learning.html#application-of-statistical-learning-machine-learning-models-in-my-research",
     "title": "5  Application of Statistical Learning",
     "section": "",
     "text": "Dependent Variable: Yield (corn yield).\nIndependent Variables:\n\nField-fixed variables: Seed rate, nitrogen rate (main controllable input), and topography/soil characteristics.\nTime-variant variables: Climate variables such as precipitation (prcp) and temperature (tmpt).",
@@ -370,14 +271,36 @@
     ]
   },
   {
-    "objectID": "S02-how-to-use-learning.html#application-of-statistical-learning-machine-learning-models-in-my-research",
-    "href": "S02-how-to-use-learning.html#application-of-statistical-learning-machine-learning-models-in-my-research",
-    "title": "5  Application of Statistical Learning",
+    "objectID": "P01-price_movement.html",
+    "href": "P01-price_movement.html",
+    "title": "6  How Price Moves : Stock Market and Grain Stock",
     "section": "",
-    "text": "Dependent Variable: Yield (corn yield).\nIndependent Variables:\n\nField-fixed variables: Seed rate, nitrogen rate (main controllable input), and topography/soil characteristics.\nTime-variant variables: Climate variables such as precipitation (prcp) and temperature (tmpt).",
+    "text": "6.1 Mechanisms of Price Changes: Stock Market vs. Grain Market (Corn)\nPrice changes in both stock and grain markets reflect the dynamics of supply, demand, and external factors. While the overarching mechanisms share similarities, the specific drivers and their relative influence differ significantly.",
     "crumbs": [
-      "Statistical (Machine) Learning: <br> From Simplicity to Complexity ",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Application of Statistical Learning</span>"
+      "Price analysis: <br> Grain Stock and Stock Market",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>How Price Moves : Stock Market and Grain Stock</span>"
+    ]
+  },
+  {
+    "objectID": "P01-price_movement.html#mechanisms-of-price-changes-stock-market-vs.-grain-market-corn",
+    "href": "P01-price_movement.html#mechanisms-of-price-changes-stock-market-vs.-grain-market-corn",
+    "title": "6  How Price Moves : Stock Market and Grain Stock",
+    "section": "",
+    "text": "6.1.1 Similarities\n\nSupply and Demand Dynamics:\n\nBoth markets rely on the interplay between supply and demand. For example, stock prices rise with increased demand for shares, while corn prices rise with higher demand for grain or reduced supply due to weather shocks.\n\nMarket Expectations:\n\nPrices in both markets are forward-looking, reflecting expectations about future conditions. In the stock market, this includes company performance and economic forecasts. In the corn market, this includes crop yields, trade policies, and global demand trends.\n\nSpeculation and Hedging:\n\nTraders in both markets speculate on future price movements or hedge against risks. Speculative activity can amplify price volatility.\n\nMacroeconomic Influences:\n\nBroad factors like interest rates, inflation, and global economic conditions impact both stock and corn prices.\n\n\n\n\n\n6.1.2 Differences\n\n\n\n\n\n\n\n\nAspect\nStock Market\nGrain Market (Corn)\n\n\n\n\nPrimary Drivers\nCorporate earnings, investor sentiment, economic data\nWeather conditions, crop yields, global trade, biofuel policies\n\n\nRegulation\nRegulated by securities agencies (e.g., SEC in the U.S.)\nGoverned by agricultural trade policies (e.g., tariffs, subsidies)\n\n\nSeasonality\nLimited, primarily earnings cycles\nStrong seasonal patterns (planting and harvest cycles)\n\n\nElasticity\nPrices more elastic to changes in demand\nPrices often inelastic, especially during supply shocks",
+    "crumbs": [
+      "Price analysis: <br> Grain Stock and Stock Market",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>How Price Moves : Stock Market and Grain Stock</span>"
+    ]
+  },
+  {
+    "objectID": "P01-price_movement.html#regression-models-for-price-change-patterns",
+    "href": "P01-price_movement.html#regression-models-for-price-change-patterns",
+    "title": "6  How Price Moves : Stock Market and Grain Stock",
+    "section": "6.2 Regression Models for Price Change Patterns",
+    "text": "6.2 Regression Models for Price Change Patterns\n\n6.2.1 1. Stock Market Price Analysis\n\n6.2.1.1 Regression Model\nThe general regression equation for stock price analysis is:\n\\[\nP_t = \\beta_0 + \\beta_1 \\text{Earnings}_t + \\beta_2 \\text{MarketSentiment}_t + \\beta_3 \\text{GDPGrowth}_t + \\beta_4 \\text{InterestRate}_t + \\epsilon_t\n\\]\nWhere: - \\(P_t\\): Stock price at time \\(t\\). - \\(\\text{Earnings}_t\\): Corporate earnings. - \\(\\text{MarketSentiment}_t\\): Sentiment score from news or social media. - \\(\\text{GDPGrowth}_t\\): GDP growth rate. - \\(\\text{InterestRate}_t\\): Interest rate.\n\n\n6.2.1.2 Purpose of Analysis\n\nIdentify how macroeconomic and company-specific factors drive stock price movements.\nAssess the role of market sentiment in short-term price volatility.\n\n\n\n\n\n6.2.2 2. Grain Market (Corn Price) Analysis\n\n6.2.2.1 Regression Model\nThe general regression equation for corn price analysis is:\n\\[\nP_t = \\beta_0 + \\beta_1 \\text{Yield}_t + \\beta_2 \\text{ExportDemand}_t + \\beta_3 \\text{BiofuelPolicy}_t + \\beta_4 \\text{Weather}_t + \\beta_5 \\text{Seasonality}_t + \\epsilon_t\n\\]\nWhere:  - \\(P_t\\): Corn price at time \\(t\\).  - \\(\\text{Yield}_t\\): Corn yield per acre.  - \\(\\text{ExportDemand}_t\\): Demand for corn in international markets.  - \\(\\text{BiofuelPolicy}_t\\): Dummy variable representing changes in biofuel policy.  - \\(\\text{Weather}_t\\): Weather conditions (e.g., precipitation, temperature).  - \\(\\text{Seasonality}_t\\): Seasonal index for planting and harvest periods.\n\n\n6.2.2.2 Purpose of Analysis\n\nDetermine the impact of agricultural and trade factors on corn prices.\nQuantify how seasonal and weather-related variations affect price dynamics.\n\n\n\n\n\n6.2.3 Summary of Analytical Approaches\n\n\n\n\n\n\n\n\nMarket\nPrimary Factors in Regression\nPurpose\n\n\n\n\nStock Market\nCorporate earnings, sentiment, macroeconomic indicators\nUnderstand short-term price volatility and long-term valuation.\n\n\nGrain Market (Corn)\nYield, export demand, weather, seasonality, biofuel policies\nIdentify the impact of agricultural and trade policies on price trends.",
+    "crumbs": [
+      "Price analysis: <br> Grain Stock and Stock Market",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>How Price Moves : Stock Market and Grain Stock</span>"
     ]
   },
   {
@@ -414,25 +337,14 @@
     ]
   },
   {
-    "objectID": "P01-price_movement.html#mechanisms-of-price-changes-stock-market-vs.-grain-market-corn",
-    "href": "P01-price_movement.html#mechanisms-of-price-changes-stock-market-vs.-grain-market-corn",
-    "title": "6  How Price Moves : Stock Market and Grain Stock",
+    "objectID": "A01-appendix.html",
+    "href": "A01-appendix.html",
+    "title": "",
     "section": "",
-    "text": "6.1.1 Similarities\n\nSupply and Demand Dynamics:\n\nBoth markets rely on the interplay between supply and demand. For example, stock prices rise with increased demand for shares, while corn prices rise with higher demand for grain or reduced supply due to weather shocks.\n\nMarket Expectations:\n\nPrices in both markets are forward-looking, reflecting expectations about future conditions. In the stock market, this includes company performance and economic forecasts. In the corn market, this includes crop yields, trade policies, and global demand trends.\n\nSpeculation and Hedging:\n\nTraders in both markets speculate on future price movements or hedge against risks. Speculative activity can amplify price volatility.\n\nMacroeconomic Influences:\n\nBroad factors like interest rates, inflation, and global economic conditions impact both stock and corn prices.\n\n\n\n\n\n6.1.2 Differences\n\n\n\n\n\n\n\n\nAspect\nStock Market\nGrain Market (Corn)\n\n\n\n\nPrimary Drivers\nCorporate earnings, investor sentiment, economic data\nWeather conditions, crop yields, global trade, biofuel policies\n\n\nRegulation\nRegulated by securities agencies (e.g., SEC in the U.S.)\nGoverned by agricultural trade policies (e.g., tariffs, subsidies)\n\n\nSeasonality\nLimited, primarily earnings cycles\nStrong seasonal patterns (planting and harvest cycles)\n\n\nElasticity\nPrices more elastic to changes in demand\nPrices often inelastic, especially during supply shocks",
+    "text": "AppendicesA  A01-appendix.html Code",
     "crumbs": [
-      "Price analysis: <br> Grain Stock and Stock Market",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>How Price Moves : Stock Market and Grain Stock</span>"
-    ]
-  },
-  {
-    "objectID": "P01-price_movement.html#regression-models-for-price-change-patterns",
-    "href": "P01-price_movement.html#regression-models-for-price-change-patterns",
-    "title": "6  How Price Moves : Stock Market and Grain Stock",
-    "section": "6.2 Regression Models for Price Change Patterns",
-    "text": "6.2 Regression Models for Price Change Patterns\n\n6.2.1 1. Stock Market Price Analysis\n\n6.2.1.1 Regression Model\nThe general regression equation for stock price analysis is:\n\\[\nP_t = \\beta_0 + \\beta_1 \\text{Earnings}_t + \\beta_2 \\text{MarketSentiment}_t + \\beta_3 \\text{GDPGrowth}_t + \\beta_4 \\text{InterestRate}_t + \\epsilon_t\n\\]\nWhere: - \\(P_t\\): Stock price at time \\(t\\). - \\(\\text{Earnings}_t\\): Corporate earnings. - \\(\\text{MarketSentiment}_t\\): Sentiment score from news or social media. - \\(\\text{GDPGrowth}_t\\): GDP growth rate. - \\(\\text{InterestRate}_t\\): Interest rate.\n\n\n6.2.1.2 Purpose of Analysis\n\nIdentify how macroeconomic and company-specific factors drive stock price movements.\nAssess the role of market sentiment in short-term price volatility.\n\n\n\n\n\n6.2.2 2. Grain Market (Corn Price) Analysis\n\n6.2.2.1 Regression Model\nThe general regression equation for corn price analysis is:\n\\[\nP_t = \\beta_0 + \\beta_1 \\text{Yield}_t + \\beta_2 \\text{ExportDemand}_t + \\beta_3 \\text{BiofuelPolicy}_t + \\beta_4 \\text{Weather}_t + \\beta_5 \\text{Seasonality}_t + \\epsilon_t\n\\]\nWhere: - \\(P_t\\): Corn price at time \\(t\\). - \\(\\text{Yield}_t\\): Corn yield per acre. - \\(\\text{ExportDemand}_t\\): Demand for corn in international markets. - \\(\\text{BiofuelPolicy}_t\\): Dummy variable representing changes in biofuel policy. - \\(\\text{Weather}_t\\): Weather conditions (e.g., precipitation, temperature). - \\(\\text{Seasonality}_t\\): Seasonal index for planting and harvest periods.\n\n\n6.2.2.2 Purpose of Analysis\n\nDetermine the impact of agricultural and trade factors on corn prices.\nQuantify how seasonal and weather-related variations affect price dynamics.\n\n\n\n\n\n6.2.3 Summary of Analytical Approaches\n\n\n\n\n\n\n\n\nMarket\nPrimary Factors in Regression\nPurpose\n\n\n\n\nStock Market\nCorporate earnings, sentiment, macroeconomic indicators\nUnderstand short-term price volatility and long-term valuation.\n\n\nGrain Market (Corn)\nYield, export demand, weather, seasonality, biofuel policies\nIdentify the impact of agricultural and trade policies on price trends.",
-    "crumbs": [
-      "Price analysis: <br> Grain Stock and Stock Market",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>How Price Moves : Stock Market and Grain Stock</span>"
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>A01-appendix.html</span>"
     ]
   }
 ]
