@@ -15,22 +15,23 @@ book:
     - index.qmd
     - preface.qmd
     - text: "---"
-    - part: " Statistical Analysis in Application to Economics Models"
+    - part: "Statistical Analysis : <br> in Application to Economics Models"
       chapters: 
         - E01-Basic Crop Production Model.qmd
         - E02-Estimation of Yield Response.qmd
         - E03-Spatial and Time Series.qmd
-        - E04-Bayesian Quantile Regression.qmd
     - text: "---"
-    - part: "Essay of Price Analysis"
-      chapters: 
-        - P01-price_movement.qmd
-        - P02-stock_money_ag.qmd
-    - text: "---"
-    - part: "Essay of Statistical Learning(AI)"
+    - part: "Statistical (Machine) Learning: <br> From Simplicity to Complexity "
       chapters: 
         - S01-what-is-learning.qmd
         - S02-how-to-use-learning.qmd
+    - text: "---"
+    - part: "Price analysis: <br> Grain Stock and Stock Market"
+      chapters: 
+        - P01-price_movement.qmd
+        - P02-stat-analysis-price.qmd
+    - text: "---"
+  
   appendices:
     - A01-appendix.qmd
     

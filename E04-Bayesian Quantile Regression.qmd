@@ -1,7 +1,0 @@
----
-title: "Bayesian Quantile Regression: To Estimate Distribution of Yield over Time and Space ( Dissertation related)"
-author: "Jaeseok Hwang"
-date: "Today’s Date"
-format: html
-bibliography: E00_econometrics_ref.bib
----
