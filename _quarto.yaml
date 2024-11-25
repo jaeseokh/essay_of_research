@@ -1,9 +1,10 @@
 project:
   type: book
-  output-dir: ../docs/essays  # Place the book in the main site's "docs/essays" folder
+  output-dir: _essays  # Render to a local directory
+  # Use _site for a temporary build
 
 book:
-  title: "Essay of my research Journey"
+  title: "Essay of My Research Journey"
   author: "Jaeseok Hwang"
   site-url: https://jaeseokh.github.io/essays/
   repo-url: https://https://github.com/jaeseokh/essay_of_research/
