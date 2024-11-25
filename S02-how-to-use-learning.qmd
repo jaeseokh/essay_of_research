@@ -128,7 +128,6 @@ Quantile Forests extend this by allowing non-linear predictors and estimating co
 - **Yield Optimization**: Analyzes upper quantiles (e.g., 90th percentile) for potential yield maximization.
 - **Field Management**: Provides recommendations for variable-rate nitrogen applications based on yield variability.
 
-- Cite: @meinshausen2006quantile
 
 ---
 

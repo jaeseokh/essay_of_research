@@ -13,7 +13,6 @@ book:
   sharing: [facebook, linkedin]
   chapters:
     - index.qmd
-    - preface.qmd
     - text: "---"
     - part: "Statistical Analysis : <br> in Application to Economics Models"
       chapters: 
